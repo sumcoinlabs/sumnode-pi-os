@@ -4,12 +4,11 @@
 
 An out of the box Sumcoin Super-Node for Raspberry Pi made for running a GB ATM's or other Node services.
 
-### Preview
+Overview
 
-![Image](https://raw.githubusercontent.com/sumcoinlabs/sumcoin-pi-os/master/images/Desktop1.jpeg)
+<img width="851" alt="Messages Image(2892912464)" src="https://user-images.githubusercontent.com/37975862/62030322-1b28fc80-b1a2-11e9-9675-f362fe11f60a.png">
 
 
-![Image](https://raw.githubusercontent.com/sumcoinlabs/sumcoin-pi-os/images/Desktop2.jpeg)
 
 ## An out of the box Raspberry Pi Image with Sumcoin v17 Binaries loaded using Raspbian OS.
 
@@ -33,9 +32,15 @@ https://www.youtube.com/watch?v=D2TISpT7yLI
 Sumcoin will load automatically with a unique wallet.dat to the home directory.
 (You can change this location to external drive also)
 
+Preview
+![FullSizeRender](https://user-images.githubusercontent.com/37975862/62030588-a1ddd980-b1a2-11e9-9639-bee75afca398.jpeg)
+
 ### Configuration 
 Navigate to .sumcoin in home dir to configure your ATM or other service in sumcoin.conf
 (if you don't see it, press control-H to show hidden folders)
+
+
+
 
 ### Port Forwarding !
 **Make sure to open ports 3332 and 3333 on your Modem/Network for full Node functionality.
@@ -46,3 +51,4 @@ http://www.sumnode.io/
 
 Tailor made for General Bytes ATM's, but usable for any other service as well.
 
+![FullSizeRender-2](https://user-images.githubusercontent.com/37975862/62030500-6cd18700-b1a2-11e9-9dcf-96c0e5c1cb6f.jpeg)
