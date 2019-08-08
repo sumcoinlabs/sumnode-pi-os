@@ -1,4 +1,4 @@
-# sumnode-pi-os
+# sumnode-GB-ATM-OS
 
 ## Download Pi Image, Unzip, Load image to Micro SD Card
 
@@ -47,6 +47,12 @@ Here's a helpful Video using Windows
 https://www.youtube.com/watch?v=D2TISpT7yLI
 
 ### Write the Image - MAC 
+
+* Etcher
+https://www.balena.io/etcher/
+
+* Pi Baker
+
 DOWNLOAD - ApplePi-Baker V2 
 Platform: 	Mac OS X
 Filename: 	ApplePi-Baker-v2.1.3.dmg
