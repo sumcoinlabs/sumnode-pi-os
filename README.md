@@ -16,7 +16,8 @@ Running your own Sumcoin Node adds security as an ATM Operator.
 
 ### Overview
 
-<img width="851" alt="Messages Image(2892912464)" src="https://user-images.githubusercontent.com/37975862/62030322-1b28fc80-b1a2-11e9-9675-f362fe11f60a.png">
+![image](https://user-images.githubusercontent.com/37975862/62692611-33f99500-b98e-11e9-9074-ada27659d6d3.png)
+
 
 
 
