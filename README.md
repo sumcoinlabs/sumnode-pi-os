@@ -7,8 +7,7 @@ The Image is 8 GB and will take some time to download.
 #### Dowload Link
 
 
-*CURRENTLY BEING UPDATED_ CHECK BACK*
-
+https://drive.google.com/open?id=1awMaoJw6alnwc4GxVVCDd_Hxk6FrVxe0
 
 ### What is this for?
 
