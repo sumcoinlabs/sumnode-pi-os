@@ -4,18 +4,25 @@
 
 The Image is 8 GB and will take some time to download.
 
-#### Dowload Link
-
+### Dowload Link - Sumcoin ONLY - Raspbian 
+Version 1
 
 https://drive.google.com/open?id=1awMaoJw6alnwc4GxVVCDd_Hxk6FrVxe0
 
-### What is this for?
+### Download Link - Sumcoin-SUM Bitcoin-BTC Litecoin-LTC  - Ubuntu MATE
+Version 2
+
+https://drive.google.com/file/d/16qf4BCKkbLomeXN6q-NkqRb3SntqDgg2/view?usp=sharing
+
+*Unzip prior to writing image. Use 64 GB Micro SD or Larger + 1 TB minimum external Hard Drive for block Storage*
+
+## What is this for?
 
 An out of the box Sumcoin Super-Node for Raspberry Pi made for running a GB ATM's or other Node services.
 
 Running your own Sumcoin Node adds security as an ATM Operator.   
 
-### Overview
+## Overview
 
 ![image](https://user-images.githubusercontent.com/37975862/62692611-33f99500-b98e-11e9-9074-ada27659d6d3.png)
 
