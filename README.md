@@ -4,15 +4,19 @@
 
 The Image is 8 GB and will take some time to download.
 
-### Dowload Link - Sumcoin ONLY - Raspbian 
+### Pi 3b + Dowload Link - Sumcoin ONLY - Raspbian 
 Version 1
 
 https://drive.google.com/open?id=1awMaoJw6alnwc4GxVVCDd_Hxk6FrVxe0
 
-### Download Link - Sumcoin-SUM Bitcoin-BTC Litecoin-LTC  - Ubuntu MATE
+### Pi 3b + Download Link - Sumcoin-SUM Bitcoin-BTC Litecoin-LTC  - Ubuntu MATE
 Version 2
 
 https://drive.google.com/file/d/16qf4BCKkbLomeXN6q-NkqRb3SntqDgg2/view?usp=sharing
+
+### Pi 4 Dowload Link - Sumcoin ONLY - Raspbian 
+
+https://drive.google.com/file/d/1EtaNMZb-SwXQYAJDMwMi98pSHhzzVxou/view?usp=sharing
 
 *Unzip prior to writing image. Use 64 GB Micro SD or Larger + 1 TB minimum external Hard Drive for block Storage*
 
